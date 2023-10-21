@@ -1,0 +1,14 @@
+
+.navbar{
+   padding: 0%;
+}
+.container-fluid{
+    background-color:rgba(140, 169, 186, 0.715);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    text-decoration: none;
+   
+}
+.nav-link {
+    color:#3c912d;
+}
